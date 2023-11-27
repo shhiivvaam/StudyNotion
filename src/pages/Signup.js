@@ -5,7 +5,7 @@ import signupImg from '../assets/signup.png'
 const Signup = ({setIsLoggedIn}) => {
     return (
         <Template
-            title= 'Join the millions learningto code with StudyNotion for free'
+            title= 'Join the millions learning to code with StudyNotion for free'
             desc1= 'Build skills for today, tomorrow, and beyond'
             desc2= 'Educationto future-proof your career.'
             image= {signupImg}
