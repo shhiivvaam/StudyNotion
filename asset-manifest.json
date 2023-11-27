@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/StudyNotion/static/css/main.73a190dc.css",
-    "main.js": "/StudyNotion/static/js/main.10704b05.js",
+    "main.css": "/StudyNotion/static/css/main.d6415e0b.css",
+    "main.js": "/StudyNotion/static/js/main.306c247c.js",
     "static/media/signup.png": "/StudyNotion/static/media/signup.b431d919de01b6515dd6.png",
     "static/media/login.png": "/StudyNotion/static/media/login.4d877a447365e5137b67.png",
     "static/media/frame.png": "/StudyNotion/static/media/frame.3a238e5f26d676376e1d.png",
     "static/media/Logo.svg": "/StudyNotion/static/media/Logo.fd896773ef070a122541fd8722efa10f.svg",
     "index.html": "/StudyNotion/index.html",
-    "main.73a190dc.css.map": "/StudyNotion/static/css/main.73a190dc.css.map",
-    "main.10704b05.js.map": "/StudyNotion/static/js/main.10704b05.js.map"
+    "main.d6415e0b.css.map": "/StudyNotion/static/css/main.d6415e0b.css.map",
+    "main.306c247c.js.map": "/StudyNotion/static/js/main.306c247c.js.map"
   },
   "entrypoints": [
-    "static/css/main.73a190dc.css",
-    "static/js/main.10704b05.js"
+    "static/css/main.d6415e0b.css",
+    "static/js/main.306c247c.js"
   ]
 }
